@@ -1,19 +1,17 @@
-ğŸ¬ Anime Review Platform
-A web application built with Next.js where users can explore, review, and share opinions about their favorite anime shows and movies.
+# í¾Œ Anime Review Platform  
 
-ğŸš€ Features
-ğŸ” Browse anime titles with details (genre, rating, description)
-â­ Add reviews & ratings for each anime
-ğŸ‘¤ User authentication (login/signup)
-ğŸ“ Personal watchlist management
-ğŸ”„ Responsive UI with smooth navigation
+A web application built with Next.js where users can explore, review, and share opinions about their favorite anime shows and movies.  
 
-ğŸ› ï¸ Tech Stack
-Frontend: Next.js, React, Tailwind CSS
-Backend: Node.js / API routes
-Database: (MongoDB / PostgreSQL â€“ choose your backend later)
-<<<<<<< HEAD
-Version Control: Git & GitHub
-=======
-Version Control: Git & GitHub
->>>>>>> f3bea8ea612a3f3ce36a43faaf8359b49d9b2c51
+## íº€ Features  
+- í´ Browse anime titles with details (genre, rating, description)  
+- â­ Add reviews & ratings for each anime  
+- í±¤ User authentication (login/signup)  
+- í³‹ Personal watchlist management  
+- í³± Responsive UI with smooth navigation  
+
+## í»  Tech Stack  
+**Frontend:** Next.js, React, Tailwind CSS  
+**Backend:** Node.js / API routes  
+**Database:** MongoDB / PostgreSQL (choose your backend later)  
+**Version Control:** Git & GitHub  
+
